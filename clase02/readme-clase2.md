@@ -6,7 +6,7 @@
   
     
 ##Que nos quedo de tarea...
-- subir el ejercicio a githubpages
-- agregar bootstra
-- cargar un js y usar consolog para mostrar por consola el documento
-- usar algun elemento de bootstrap
+- subir el ejercicio a githubpages HECHO
+- agregar bootstrap HECHO
+- cargar un js y usar consolog para mostrar por consola el documento HECHO
+- usar algun elemento de bootstrap HECHO
